@@ -1,5 +1,0 @@
-C:\Users\simo528r\source\repos\Energi\Energi\obj\Debug\net6.0\Energi.csproj.AssemblyReference.cache
-C:\Users\simo528r\source\repos\Energi\Energi\obj\Debug\net6.0\Energi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\simo528r\source\repos\Energi\Energi\obj\Debug\net6.0\Energi.AssemblyInfoInputs.cache
-C:\Users\simo528r\source\repos\Energi\Energi\obj\Debug\net6.0\Energi.AssemblyInfo.cs
-C:\Users\simo528r\source\repos\Energi\Energi\obj\Debug\net6.0\Energi.csproj.CoreCompileInputs.cache
